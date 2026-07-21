@@ -1,16 +1,76 @@
-## Hi there 👋
+ Hi 👋, I'm Sakshi Dhumane
 
-<!--
-**sakshidhumane/sakshidhumane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Data Analyst | Excel | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Passionate about transforming raw data into meaningful business insights.
+
+🌱 Currently learning
+- Power BI
+- Advanced SQL
+- Python for Data Analytics
+- Microsoft Fabric
+
+💼 Looking for
+Data Analyst | Business Analyst | BI Analyst Opportunities
+
+📫 Reach me at
+📧 sakshidhumane@gmail.com
+
+🔗 LinkedIn
+https://www.linkedin.com/in/sakshidhumane
+
+
+🛠 Tech Stack
+
+💻 Languages
+- Python
+- SQL
+
+📊 Data Analytics
+- Microsoft Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+
+🗄 Database
+- MySQL
+- PostgreSQL
+
+⚙ Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+
+
+📂 Featured Projects
+
+🏥 Hospital Emergency Room Dashboard
+- Interactive Excel Dashboard
+- KPI Cards
+- Pivot Tables
+- Slicers
+- Charts
+
+📈 Customer Churn Analysis
+- Python
+- Pandas
+- Data Visualization
+
+📈 GitHub Stats
+
+(Add GitHub Stats Cards)
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn
+GitHub
+Email
+
+⭐ Thanks for visiting my profile!
